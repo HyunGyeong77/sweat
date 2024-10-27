@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sweat/static/css/main.973b49fd.css",
-    "main.js": "/sweat/static/js/main.997145dd.js",
+    "main.js": "/sweat/static/js/main.e7f34dd5.js",
     "static/js/453.9a23f3b4.chunk.js": "/sweat/static/js/453.9a23f3b4.chunk.js",
     "index.html": "/sweat/index.html",
     "main.973b49fd.css.map": "/sweat/static/css/main.973b49fd.css.map",
-    "main.997145dd.js.map": "/sweat/static/js/main.997145dd.js.map",
+    "main.e7f34dd5.js.map": "/sweat/static/js/main.e7f34dd5.js.map",
     "453.9a23f3b4.chunk.js.map": "/sweat/static/js/453.9a23f3b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.973b49fd.css",
-    "static/js/main.997145dd.js"
+    "static/js/main.e7f34dd5.js"
   ]
 }
