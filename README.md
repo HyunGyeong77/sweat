@@ -2,9 +2,7 @@
 의류 쇼핑몰 사이트
 
 ## 🔗 바로가기
-<a href="https://hyungyeong77.github.io/sweat" target="_blank" rel="noopener noreferrer">
-  sweat
-</a>
+[sweat](https://hyungyeong77.github.io/sweat)
 <br><br><br>
 
 ## 💡 프로젝트 소개
